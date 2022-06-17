@@ -30,22 +30,13 @@ If you help my project, please add your hometown into the List of Hometown.
 出身地の記入は下の「List of Hometown」までお願いします！
 
 # List of Hometown
-1
-
-2
-
-3
-
-4
-
-5
-
-6
-
-7
-
-8
-
-9
-
-10
+1</br>
+2</br>
+3</br>
+4</br>
+5</br>
+6</br>
+7</br>
+8</br>
+9</br>
+10</br>
