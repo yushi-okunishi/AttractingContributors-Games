@@ -6,7 +6,7 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# pleas tell me Your favorite MS(MobilSuit) of Gandam  
+# please tell me Your favorite MS(MobilSuit) of Gandam  
 あなたの好きなガンダム作品のモビルスーツを教えてください。
 
 # List of Hobby
