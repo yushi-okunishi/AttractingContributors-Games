@@ -26,7 +26,7 @@ If you help my project, please add it into the "List of Hometown".</br>
 出身地の記入は下の「List of Hometown」までお願いします</br>
 
 # List of Hometown
-1</br>
+1</br> 愛知県
 2</br>
 3</br>
 4</br>
