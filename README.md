@@ -1,4 +1,4 @@
-# Attracting Contributors
+# Attracting Contributors-Your favorite MS(MobilSuit) of Gandam 
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
 # Rules
