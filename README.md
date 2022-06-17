@@ -23,14 +23,20 @@ In case your hometown is not in Japan, Please tell me your homecountry
 
 If you help my project, please add your hometown into the List of Hometown.
 
-・Osaka
-
 あなたの出身地を教えてください！
 
 出身地が日本以外の場合は出身国を教えてください！
 
 出身地の記入は下の「List of Hometown」までお願いします！
 
-・Osaka
-
 # List of Hometown
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
