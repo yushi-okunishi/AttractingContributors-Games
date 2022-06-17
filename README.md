@@ -16,8 +16,15 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+Please tll me your hometown!
+あなたの出身地を教えてください！
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+Please tell me your hometown!
 
-# List of Hobby
+・Osaka
+
+あなたの出身地を教えてください！
+
+・Osaka
+
+# List of Hometown
