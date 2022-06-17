@@ -18,15 +18,11 @@ To complete the assignment, please do the following:
 # Example. 
 
 Please tell me your hometown!
-
 In case your hometown is not in Japan, Please tell me your homecountry
-
 If you help my project, please add your hometown into the List of Hometown.
 
 あなたの出身地を教えてください！
-
 出身地が日本以外の場合は出身国を教えてください！
-
 出身地の記入は下の「List of Hometown」までお願いします！
 
 # List of Hometown
