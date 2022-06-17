@@ -1,5 +1,5 @@
 # My Project - ( Two favorite colors for clothes )
-Please tell me your two favorite color for clothes.\n
+Please tell me your two favorite color for clothes.
 The answer may vary depending on the style, but just choose one of them.
 
 # List of two favorite colors for clothes
