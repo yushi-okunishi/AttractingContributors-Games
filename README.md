@@ -12,3 +12,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of Hobby
 1. シャア専用ザク
 2. Zガンダム
+3. ユニコーンガンダム
