@@ -27,11 +27,12 @@ Translated by: deepl.com
 # List of Country That You Want to Visit (please add the city's name too. Example: Country - City [Japan - Hiroshima])
 1. Scotland - Edinburgh
 2. Italy - Venice
-3. UK - London
-4.
+3. Japan - Kagoshima
+4. UK - London
 5.
 6.
 7.
 8.
 9.
 10.
+11.
