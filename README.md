@@ -24,7 +24,7 @@ Goal - I want contributors to help me list some favorite Game.
 1. League of Legends. 
 2. King's Glory. 
 3. Conter-Strike: Global Offensive. 
-4.
+4. Minecraft. 
 5.
 6.
 7.
