@@ -15,9 +15,19 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# My Project (Game-collection)
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+Goal - I want contributors to help me list some favorite Game.
 
-# List of Hobby
+# List of Game
+
+1. League of Legends
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
