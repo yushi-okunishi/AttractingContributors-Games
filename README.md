@@ -26,7 +26,7 @@ Translated by: deepl.com
 
 # List of Country That You Want to Visit (please add the city's name too. Example: Country - City [Japan - Hiroshima])
 1. Scotland - Edinburgh
-2.
+2. Italy - Venice
 3.
 4.
 5.
