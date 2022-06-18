@@ -15,9 +15,23 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# Project (Wishlist Country and Its City).
+[Eng/英語]
+In this project, I want you to help me make a list of countries and cities you'd like to visit one day. Isn't traveling kind of a fun thing to do? and could be thought of as a hobby as well. I really like to travel because it's very interesting and it's fun to learn about new places and their cultures. Please choose the country you want to go to from the list below. For instance: Japan - Hiroshima.
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+[Jpn/日本語]
+このプロジェクトでは、あなたがいつか行ってみたい国や都市をリストアップするのを手伝ってほしいのです。旅って楽しいじゃないですか！趣味にもなりますし。私は旅行がとても好きです。新しい場所やその文化を知るのはとても面白いし、楽しいからです。あなたが行きたい国を下のリストから選んでください。例えば 日本 - 広島
+Translated by: deepl.com
 
-# List of Hobby
+
+# List of Country That You Want to Visit (please add the city's name too. Example: Country - City [Japan - Hiroshima])
+1. Scotland - Edinburgh
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
