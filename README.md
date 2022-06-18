@@ -13,3 +13,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 1. シャア専用ザク
 2. Zガンダム
 3. ユニコーンガンダム
+4. ガンダムseed
+5. 機動戦士ガンダム 逆襲のシャア
