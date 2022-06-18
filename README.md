@@ -24,7 +24,7 @@ In this project, I want you to help me make a list of countries and cities you'd
 Translated by: deepl.com
 
 
-# List of Country That You Want to Visit (please add the city's name too. Example: Country - City [Japan - Hiroshima])
+# List of Country That You Want to Visit (please add the city's name too. Example: Country - City [Japan - Hiroshima]) 英語と日本語はどちらもいいですよ。
 1. Scotland - Edinburgh
 2. Italy - Venice
 3. Japan - Kagoshima
