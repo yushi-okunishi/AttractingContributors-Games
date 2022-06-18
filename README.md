@@ -4,8 +4,9 @@ The answer may vary depending on the style, but just choose one of them.
 
 # List of two favorite colors for clothes
 1. White & Mazarine blue
-2. Brown & Black
-3. Black & White
-4. White & Black
-5. Black % Lightbrown
-6. Black & Lightblue
+2. Black & White
+3. Yellow & Pale Green
+4. Brown & Black
+5. White & Black
+6. Black % Lightbrown
+7. Black & Lightblue
