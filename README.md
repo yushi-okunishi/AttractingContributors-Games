@@ -16,19 +16,18 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # Example. 
-Thanks for visiting this repository!<br><br>
+What is your favorite food?
+One or more is fine.
+Send me a Pull Request!
 
-I would like to know what your favorite spots in Nara.<br>
-あなたの奈良のおすすめスポットが知りたいです！
-<br><br>
-
-Especially, I would be very happy to receive information about good restaurants and cafes.<br>
-特に、おいしいレストランやカフェの情報を教えてもらえると嬉しいです！
-<br><br>
-
-If you help my project, please add your favorite spot in Nara into the List of Hobby.<br>
-もし、このプロジェクトにご協力いただけるなら、あなたのお気に入りの奈良県内のスポットを「List of Hobby」に追加してください。<br><br>
-
-Thank you for your cooperation.<br>
-
-# List of Hobby
+# List of Food
+1. Shuizhu
+2. shshi
+3. Chocolate
+4.
+5.
+6.
+7.
+8.
+9.
+10.
