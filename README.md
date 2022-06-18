@@ -29,7 +29,7 @@ Translated by: deepl.com
 2. Italy - Venice
 3. Japan - Kagoshima
 4. UK - London
-5.
+5. Bangkok - Thailand
 6.
 7.
 8.
