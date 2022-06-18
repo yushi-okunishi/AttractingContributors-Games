@@ -27,6 +27,12 @@ If you help my project, please add it into the "List of Hometown".</br>
 
 # List of Hometown
 1. Japan</br>
+1. japan</br>
+1</br> 愛知県
+1. Hiroshima</br>
+1 China</br>
+1 Osaka</br>
+1 Vermont, America</br>
 2</br>
 3</br>
 4</br>
