@@ -22,8 +22,8 @@ Goal - I want contributors to help me list some favorite Game.
 # List of Game
 
 1. League of Legends
-2. Minecraft
-3.
+2. King's Glory 
+3. Minecraft
 4.
 5.
 6.
