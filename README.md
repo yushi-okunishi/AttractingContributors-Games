@@ -34,8 +34,3 @@ If you help my project, please add it into the "List of Hometown".</br>
 8. Tokyo</br>
 9. </br>
 10. </br>
-11. </br>
-12. </br>
-13. </br>
-14. </br>
-15. </br>
