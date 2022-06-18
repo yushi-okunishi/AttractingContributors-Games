@@ -28,7 +28,7 @@ Translated by: deepl.com
 1. Scotland - Edinburgh
 2. Italy - Venice
 3. Japan - Kagoshima
-4.
+4. UK - London
 5.
 6.
 7.
