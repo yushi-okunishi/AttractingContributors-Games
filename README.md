@@ -26,7 +26,7 @@ Goal - I want contributors to help me list some favorite Game.
 3. Conter-Strike: Global Offensive. 
 4. Minecraft. 
 5. Resident Evil. 
-6.
+6. Counter Strike: Global Offensive. 
 7.
 8.
 9.
