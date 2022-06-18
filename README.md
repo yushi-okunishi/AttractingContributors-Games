@@ -32,5 +32,5 @@ If you help my project, please add it into the "List of Hometown".</br>
 6. Osaka</br>
 7. Vermont, America</br>
 8. Tokyo</br>
-9. </br>
+9. Kyobashi, Osaka</br>
 10. </br>
