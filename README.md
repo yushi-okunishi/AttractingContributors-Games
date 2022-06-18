@@ -27,18 +27,17 @@ If you help my project, please add it into the "List of Hometown".</br>
 
 # List of Hometown
 1. Japan</br>
-1. japan</br>
-1</br> 愛知県
-1. Hiroshima</br>
-1 China</br>
-1 Osaka</br>
-1 Vermont, America</br>
-2</br>
-3</br>
-4</br>
-5</br>
-6</br>
-7</br>
-8</br>
-9</br>
-10</br>
+2. japan</br>
+3. 愛知県</br> 
+4. Hiroshima</br>
+5. China</br>
+6. Osaka</br>
+7. Vermont, America</br>
+8. </br>
+9. </br>
+10. </br>
+11. </br>
+12. </br>
+13. </br>
+14. </br>
+15. </br>
