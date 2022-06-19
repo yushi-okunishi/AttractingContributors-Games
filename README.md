@@ -15,9 +15,21 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# My Project
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+A lot of people enjoy the sweets, ice cream I think is the most popular one especially since hot summer is coming!
 
-# List of Hobby
+Please tell us your favorite/recommended ice cream flavor! 🍦🍦🍦
+
+
+# List of Ice Cream Flavor
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
