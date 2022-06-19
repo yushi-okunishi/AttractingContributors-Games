@@ -27,7 +27,7 @@ Goal - I want contributors to help me list some favorite Game.
 4. Minecraft. 
 5. Resident Evil. 
 6. Counter Strike: Global Offensive. 
-7.　　PUZZLE & DRAGONS. 
+7. PUZZLE & DRAGONS. 
 8. Dragon Quest VIII: Journey of the Cursed King. 
 9.
 10.
