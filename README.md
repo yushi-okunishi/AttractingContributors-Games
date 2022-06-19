@@ -26,7 +26,7 @@ Send me a Pull Request!
 3. Natto
 4. Chocolate
 5. Sushi
-6.
+6. Mackerel misoni boiled (鯖の味噌煮) 
 7.
 8.
 9.
