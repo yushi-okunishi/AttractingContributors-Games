@@ -21,13 +21,13 @@ Goal - I want contributors to help me list some favorite Game.
 
 # List of Game
 
-1. League of Legends
-2. Senno Kiseki
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. League of Legends. 
+2. King's Glory. 
+3. Conter-Strike: Global Offensive. 
+4. Minecraft. 
+5. Resident Evil. 
+6. Counter Strike: Global Offensive. 
+7. PUZZLE & DRAGONS. 
+8. Dragon Quest VIII: Journey of the Cursed King. 
+9. Xenoblade2. 
+11. Senno Kiseki. 
