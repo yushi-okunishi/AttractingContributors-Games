@@ -20,5 +20,6 @@ Recently I like factorio. Factorio is a game for creating an efficient factory.
 
 It is a 2D game and easy on the eyes. I used to play FPS games a lot, but nowadays I don't play much.
 
+https://pbs.twimg.com/media/EAxAhF_XoAUICjY.jpg
 # List of Hobby
 1. Factorio
