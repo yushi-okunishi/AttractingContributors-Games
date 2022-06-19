@@ -15,9 +15,10 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# What is your favourite game? 
+Recently I like factorio. Factorio is a game for creating an efficient factory.
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+It is a 2D game and easy on the eyes. I used to play FPS games a lot, but nowadays I don't play much.
 
 # List of Hobby
+1. Factorio
