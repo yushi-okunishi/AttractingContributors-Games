@@ -14,3 +14,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 2. Zガンダム
 3. ユニコーンガンダム
 4. ストライクフリーダムガンダム
+5. 0ガンダム
