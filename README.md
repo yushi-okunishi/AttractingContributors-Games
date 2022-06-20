@@ -16,4 +16,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 4. ストライクフリーダムガンダム
 5. マスターガンダム
 6. 0ガンダム
-
+7. バンシィ
