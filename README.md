@@ -23,7 +23,7 @@ What is your favorite anime?
 2. Detective Conan
 3. SPY FAMILY
 4. One Piece
-5.
+5. Card Captor Sakura
 6.
 7.
 8.
