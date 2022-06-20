@@ -25,8 +25,8 @@ Please tell me your favorite flutes.
 #1 Kiwi
 #2 apple
 #3 Orange
-#4
-#5
+#4 Banana
+#5 coconut
 #6
 #7
 #8
