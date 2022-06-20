@@ -24,6 +24,8 @@ It is a 2D game and easy on the eyes. I used to play FPS games a lot, but nowada
 
 # List of Hobby
 1. Factorio
+2. Sky
 2. Final Fantasy XIV
 2. Minecraft
 3. Slay the Spire
+
