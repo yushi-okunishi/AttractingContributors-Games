@@ -25,7 +25,7 @@ Please tell us your favorite/recommended ice cream flavor! 🍦🍦🍦
 # List of Ice Cream Flavor
 1.
 2.
-3.
+3.maccha
 4.
 5.
 6.
