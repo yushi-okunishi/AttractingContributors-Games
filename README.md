@@ -26,7 +26,7 @@ Please tell us your favorite/recommended ice cream flavor! 🍦🍦🍦
 1. Vanilla </br>
 2. Chopped chocorate </br>
 3. Vanilla </br>
-4.
+4. Strawbeery Flavor </br>
 5.
 6.
 7.
