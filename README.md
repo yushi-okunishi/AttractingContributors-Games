@@ -20,7 +20,7 @@ What is your favorite anime?
 
 # List of Hobby
 1. Naruto
-2.
+2. Detective Conan
 3.
 4.
 5.
