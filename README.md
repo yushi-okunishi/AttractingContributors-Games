@@ -28,7 +28,7 @@ Please tell us your favorite/recommended ice cream flavor! 🍦🍦🍦
 3. Vanilla </br>
 4. Strawbeery Flavor </br>
 5. Maccha </br>
-6.
+6. Orange </br>
 7.
 8.
 9.
