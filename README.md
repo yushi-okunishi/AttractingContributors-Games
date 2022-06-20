@@ -24,7 +24,7 @@ What is your favorite anime?
 3. SPY FAMILY
 4. One Piece
 5. Card Captor Sakura
-6.
+6. Fullmetal Alchemist: Brotherhood
 7.
 8.
 9.
