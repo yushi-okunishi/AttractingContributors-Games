@@ -23,11 +23,11 @@ Please tell us your favorite/recommended ice cream flavor! 🍦🍦🍦
 
 
 # List of Ice Cream Flavor
-1.
-2.
-3.maccha
-4.
-5.
+1. Vanilla </br>
+2. Chopped chocorate </br>
+3. Vanilla </br>
+4. Strawbeery Flavor </br>
+5. Maccha </br>
 6.
 7.
 8.
