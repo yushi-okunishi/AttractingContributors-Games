@@ -16,11 +16,17 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # My project : Good songs recommendation
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
-
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+Please recommend some names of good songs! Any song is OK. Thank you!
 
 # List of Songs
 1.We are the world<br>
 2.希望の花<br>
-3.逆夢<br>
+3.Heal the world<br>
+4.You are not alone<br>
+5.Counting star<br>
+6.Viva La Vida<br>
+7.You are beautiful<br>
+8.Yesterday once more<br>
+9.On my Own<br>
+10.逆夢<br>
+
